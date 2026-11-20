@@ -1,0 +1,118 @@
+{
+  "rosamarina": {
+    "cod": "dig-22",
+    "name": "Lago Rosamarina",
+    "dam_lat": 37.959,
+    "dam_lon": 13.646,
+    "bbox": [
+      13.595,
+      37.915,
+      13.685,
+      37.975
+    ],
+    "utm_bbox": [
+      376480.0,
+      4197180.0,
+      384520.0,
+      4203980.0
+    ],
+    "s2_total_dates": 398,
+    "s2_2025_26_dates": 112,
+    "s1_total_dates": 495,
+    "s1_2025_26_dates": 130,
+    "s1_orbits": {
+      "descending": 427,
+      "ascending": 200
+    },
+    "sanity_water_km2_2023": 1.092,
+    "s1_vv_water_db": -20.26,
+    "s1_vv_land_db": -9.35
+  },
+  "poma": {
+    "cod": "dig-18",
+    "name": "Lago Poma",
+    "dam_lat": 38.012,
+    "dam_lon": 13.063,
+    "bbox": [
+      13.04,
+      37.965,
+      13.115,
+      38.025
+    ],
+    "utm_bbox": [
+      327820.0,
+      4203600.0,
+      334560.0,
+      4210420.0
+    ],
+    "s2_total_dates": 763,
+    "s2_2025_26_dates": 193,
+    "s1_total_dates": 294,
+    "s1_2025_26_dates": 68,
+    "s1_orbits": {
+      "descending": 224,
+      "ascending": 200
+    },
+    "sanity_water_km2_2023": 2.399,
+    "s1_vv_water_db": -17.24,
+    "s1_vv_land_db": -9.08
+  },
+  "castello": {
+    "cod": "dig-03",
+    "name": "Lago Castello (Magazzolo)",
+    "dam_lat": 37.582,
+    "dam_lon": 13.42,
+    "bbox": [
+      13.395,
+      37.565,
+      13.465,
+      37.62
+    ],
+    "utm_bbox": [
+      358240.0,
+      4158640.0,
+      364540.0,
+      4164880.0
+    ],
+    "s2_total_dates": 395,
+    "s2_2025_26_dates": 111,
+    "s1_total_dates": 495,
+    "s1_2025_26_dates": 130,
+    "s1_orbits": {
+      "descending": 406,
+      "ascending": 199
+    },
+    "sanity_water_km2_2023": 1.002,
+    "s1_vv_water_db": -20.91,
+    "s1_vv_land_db": -9.42
+  },
+  "fanaco": {
+    "cod": "dig-07",
+    "name": "Lago Fanaco",
+    "dam_lat": 37.661,
+    "dam_lon": 13.55,
+    "bbox": [
+      13.525,
+      37.645,
+      13.585,
+      37.695
+    ],
+    "utm_bbox": [
+      369860.0,
+      4167360.0,
+      375260.0,
+      4173000.0
+    ],
+    "s2_total_dates": 394,
+    "s2_2025_26_dates": 111,
+    "s1_total_dates": 495,
+    "s1_2025_26_dates": 130,
+    "s1_orbits": {
+      "descending": 406,
+      "ascending": 202
+    },
+    "sanity_water_km2_2023": 0.708,
+    "s1_vv_water_db": -20.9,
+    "s1_vv_land_db": -9.6
+  }
+}

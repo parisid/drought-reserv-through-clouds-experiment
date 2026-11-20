@@ -1,0 +1,25 @@
+reservoir,method,n_days,r2,mae_mm3,rmse_mm3,nrmse_cap_pct,fresh_le_7d_pct,max_stale_days
+Lago Rosamarina,S2-Optical Only,383,0.0823,2.362,5.831,7.98,51.2,119
+Lago Rosamarina,S1-Otsu (Classic SAR),383,0.796,1.765,2.749,3.76,100.0,6
+Lago Rosamarina,S1-ML (Pooled),383,0.5612,2.869,4.032,5.52,100.0,6
+Lago Rosamarina,S1-ML (LORO Unseen),383,0.2815,3.704,5.16,7.07,100.0,6
+Lago Rosamarina,Fusion (S2 + S1-Otsu),383,0.8666,1.526,2.223,3.04,100.0,6
+Lago Rosamarina,Fusion (S2 + S1-ML),383,0.7215,2.264,3.212,4.4,100.0,6
+Lago Poma,S2-Optical Only,383,0.8384,1.316,2.562,3.54,74.2,29
+Lago Poma,S1-Otsu (Classic SAR),383,0.3372,4.768,5.19,7.18,98.2,11
+Lago Poma,S1-ML (Pooled),383,0.4958,3.044,4.526,6.26,98.2,11
+Lago Poma,S1-ML (LORO Unseen),383,0.5491,2.492,4.281,5.92,98.2,11
+Lago Poma,Fusion (S2 + S1-Otsu),383,0.6416,3.059,3.816,5.28,100.0,6
+Lago Poma,Fusion (S2 + S1-ML),383,0.7775,2.174,3.007,4.16,100.0,6
+Lago Castello,S2-Optical Only,383,0.2194,1.584,2.926,15.01,46.7,62
+Lago Castello,S1-Otsu (Classic SAR),383,0.9165,0.646,0.957,4.91,100.0,6
+Lago Castello,S1-ML (Pooled),383,0.7266,1.053,1.732,8.88,100.0,6
+Lago Castello,S1-ML (LORO Unseen),383,0.7378,1.013,1.696,8.7,100.0,6
+Lago Castello,Fusion (S2 + S1-Otsu),383,0.9031,0.743,1.031,5.29,100.0,6
+Lago Castello,Fusion (S2 + S1-ML),383,0.7228,1.091,1.744,8.95,100.0,6
+Lago Fanaco,S2-Optical Only,384,0.0423,0.941,2.193,10.6,56.0,74
+Lago Fanaco,S1-Otsu (Classic SAR),384,0.9355,0.456,0.569,2.75,100.0,6
+Lago Fanaco,S1-ML (Pooled),384,0.8795,0.516,0.778,3.76,100.0,6
+Lago Fanaco,S1-ML (LORO Unseen),384,0.8945,0.519,0.728,3.52,100.0,6
+Lago Fanaco,Fusion (S2 + S1-Otsu),384,0.937,0.428,0.562,2.72,100.0,6
+Lago Fanaco,Fusion (S2 + S1-ML),384,0.9087,0.426,0.677,3.27,100.0,6
