@@ -32,9 +32,7 @@ Reproducible, CPU-only, **zero-GDAL** Python pipeline fusing **Sentinel-2 L2A (o
 │   ├── 04_run_experiment.py          # Self-supervised LightGBM, LORO, Otsu, hypsometry & fusion
 │   └── 05_generate_figures.py        # Generates the 4 publication-grade PNG figures
 ├── results/                          # Evaluation CSVs, feature importances & daily tracking tables
-├── figures/                          # High-DPI PNG figures
-├── TOWARDS_DATA_SCIENCE_ARTICLE.md   # Full article manuscript for Towards Data Science
-└── TDS_SUBMISSION_NOTES.md           # Submission form pitch note & editorial checklist
+└── figures/                          # High-DPI PNG figures
 ```
 
 ## Quick Start
