@@ -1,0 +1,17 @@
+feature,importance,importance_pct
+vv_std_7,972,12.96
+vv_minus_otsu,870,11.6
+vv_mean_7,834,11.12
+vh_mean_3,730,9.733333333333333
+vv_min_3,652,8.693333333333333
+vv_m3_z_scene,568,7.573333333333333
+vh_m3_z_scene,483,6.44
+vv_mean_3,465,6.2
+orbit_asc,383,5.1066666666666665
+vv_std_3,336,4.48
+vh_std_3,303,4.04
+vh_db,210,2.8
+vv_z_scene,184,2.453333333333333
+vh_z_scene,178,2.3733333333333335
+vv_db,173,2.3066666666666666
+vh_minus_vv,159,2.12

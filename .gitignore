@@ -3,8 +3,13 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/cubes/*.npz
-TOWARDS_DATA_SCIENCE_ARTICLE.md
-TDS_SUBMISSION_NOTES.md
-preview_tds_article.html
+*.docx
+*.doc
+*.pdf
+*.html
+*.htm
+*.md
+!README.md
+!LICENSE.md
 .DS_Store
 Thumbs.db
